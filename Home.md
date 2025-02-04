@@ -2,9 +2,9 @@
 
 Sveicināti Agro Kultūras Lapu Izstrādes Wiki! Šeit atrodas nepieciešamā informācija, norādes un saites, kas jums palīdzēs iepazīties ar šī projekta izstrādes procesu.
 
-- [Definition of Ready (DoR)](Definition of Ready (DoR)): Šī lapa apraksta projekta "Definition of Ready", kas satur nosacījumus, kas jāizpilda, lai uzskatītu uzdevumu par gatavu darbam.
-- [Definition of Done (DoD)](Definition of Done (DoD)): Šī lapa apraksta projekta "Definition of Done", kas satur nosacījumus, kas jāizpilda, lai uzdevums tiktu uzskatīts par pabeigtu.
-- [Acceptance criteria (AC)](Acceptance criteria (AC)): Šī lapa apraksta projekta "Acceptance criteria", kāds rezultāts tiek sagaidīts uzdevuma lai novērtētu, vai uzdevums ir izpildīts
+- [Definition of Ready (DoR)](Definition-of-Ready-(DoR)): Šī lapa apraksta projekta "Definition of Ready", kas satur nosacījumus, kas jāizpilda, lai uzskatītu uzdevumu par gatavu darbam.
+- [Definition of Done (DoD)](Definition-of-Done-(DoD)): Šī lapa apraksta projekta "Definition of Done", kas satur nosacījumus, kas jāizpilda, lai uzdevums tiktu uzskatīts par pabeigtu.
+- [Acceptance criteria (AC)](Acceptance-criteria-(AC)): Šī lapa apraksta projekta "Acceptance criteria", kāds rezultāts tiek sagaidīts uzdevuma lai novērtētu, vai uzdevums ir izpildīts
 
 
 ## Dokumentācija
@@ -12,7 +12,7 @@ Sveicināti Agro Kultūras Lapu Izstrādes Wiki! Šeit atrodas nepieciešamā in
 Šeit ir saites uz svarīgiem dokumentiem un resursiem, kas jums var noderēt, strādājot ar šo projektu:
 
 - [README](../README.md): Galvenais README fails, kas sniedz visaptverošu aprakstu par projekta repozitoriju un tā mērķiem.
-- [Dizaina vadlīnijas](design guidelines.md): Šī lapa ietver norādes par projekta dizainu, tostarp krāsu paleti, tipogrāfiju un vizuālo identitāti.
+- [Dizaina vadlīnijas](design-guidelines.md): Šī lapa ietver norādes par projekta dizainu, tostarp krāsu paleti, tipogrāfiju un vizuālo identitāti.
 
 ## Ieguldījums un palīdzība
 
