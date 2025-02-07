@@ -12,7 +12,7 @@ Sveicināti 64. vidusskolas izstrādes Wiki! Šeit atrodas nepieciešamā inform
 Šeit ir saites uz svarīgiem dokumentiem un resursiem, kas jums var noderēt, strādājot ar šo projektu:
 
 - [README](../README.md): Galvenais README fails, kas sniedz visaptverošu aprakstu par projekta repozitoriju un tā mērķiem.
-- [Dizaina vadlīnijas](design-guidelines.md): Šī lapa ietver norādes par projekta dizainu, tostarp krāsu paleti, tipogrāfiju un vizuālo identitāti.
+- [Dizaina vadlīnijas](https://www.pieklustamiba.lv/vai-zinaji-ka-labai-skolas-majaslapai-vajadzigas-tikai-cetras-sadalas/): Šī lapa ietver norādes par projekta dizainu, tostarp krāsu paleti, tipogrāfiju un vizuālo identitāti.
 
 ## Ieguldījums un palīdzība
 
