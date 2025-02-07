@@ -23,5 +23,5 @@ Jebkāda veida palīdzība, problēmu ziņojumi vai uzlabojumu priekšlikumi ir 
 
 ## Licences
 
-Projekts ir licencēts ar [MIT licenci](LICENSE.md). Lūdzu, iepazīstieties ar licenci, lai iegūtu sīkāku informāciju par lietošanas noteikumiem.
+Projekts ir licencēts ar [MIT licenci](https://opensource.org/license/mit). Lūdzu, iepazīstieties ar licenci, lai iegūtu sīkāku informāciju par lietošanas noteikumiem.
 
