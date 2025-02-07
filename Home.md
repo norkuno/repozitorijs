@@ -1,6 +1,6 @@
-## Agro Kultūras Lapas Izstrādes Wiki
+## Mācību projekta 64. vidusskolas mājaslapas izveides Wiki
 
-Sveicināti Agro Kultūras Lapu Izstrādes Wiki! Šeit atrodas nepieciešamā informācija, norādes un saites, kas jums palīdzēs iepazīties ar šī projekta izstrādes procesu.
+Sveicināti 64. vidusskolas izstrādes Wiki! Šeit atrodas nepieciešamā informācija, norādes un saites, kas jums palīdzēs iepazīties ar šī projekta izstrādes procesu.
 
 - [Definition of Ready (DoR)](Definition-of-Ready-(DoR)): Šī lapa apraksta projekta "Definition of Ready", kas satur nosacījumus, kas jāizpilda, lai uzskatītu uzdevumu par gatavu darbam.
 - [Definition of Done (DoD)](Definition-of-Done-(DoD)): Šī lapa apraksta projekta "Definition of Done", kas satur nosacījumus, kas jāizpilda, lai uzdevums tiktu uzskatīts par pabeigtu.
