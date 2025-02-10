@@ -1,5 +1,5 @@
 Akceptēšanas kritēriji ir unikāli katram uzdevumam. 
-Akceptēšanas kritērijos definē, kāds rezultāts tiek sagaidīts uzdevuma. 
+Akceptēšanas kritērijos definē, kāds rezultāts tiek sagaidīts uzdevumā. 
 AC izmanto, lai novērtētu, vai uzdevums [precīzāk - user story] ir izpildīts.
 
 Piemēri:
