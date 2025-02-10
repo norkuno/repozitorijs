@@ -15,11 +15,15 @@
   <img src="https://contrib.rocks/image?repo=norkuno/repozitorijs" />
 </a>
 
-## Contributors ✨
-
-Thanks to these amazing people:
+## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://allcontributors.org/) specification.
+[![All Contributors](https://img.shields.io/github/all-contributors/norkuno/repozitorijs?color=ee8449&style=flat-square)](#contributors)
