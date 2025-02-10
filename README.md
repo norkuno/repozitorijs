@@ -7,6 +7,14 @@
 + CSS
 + Advanced AI models &#128516; &#128516; &#128516;
 
+## Uzstādīšana un izmantošana
+
+1. Klonējiet repozitoriju uz savu datoru:
+
+git clone https://github.com/norkuno/repozitorijs.git
+
+2. Atveriet lapu index.html, jebkurā web pārlūkprogrammā.
+
 ## Kontributori
 
 ![GitHub contributors](https://img.shields.io/github/contributors/norkuno/repozitorijs?color=blue&style=flat-square)
