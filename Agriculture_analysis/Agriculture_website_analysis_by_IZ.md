@@ -26,7 +26,7 @@ Sadaļā "uzstādīšanu un izmantošanau" ir aprakstītas darbības, kuras nepi
  
 ## Kods un lapas struktūra
 CSS failiem ir izveidota atsevišķa mape.
-HMLT faili ir pieejami galvenajā skatā.
+HTML faili ir pieejami galvenajā skatā.
 
 
 ## Backend (ja tāds ir) 
