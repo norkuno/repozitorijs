@@ -7,7 +7,7 @@
 + CSS
 + Advanced AI models &#128516; &#128516; &#128516;
 
-## Pagaidām kaut ko pushojuši
+## Kontributori
 
 ![GitHub contributors](https://img.shields.io/github/contributors/norkuno/repozitorijs?color=blue&style=flat-square)
 
@@ -15,22 +15,39 @@
   <img src="https://contrib.rocks/image?repo=norkuno/repozitorijs" />
 </a>
 
-## Contributors
+## Koloboratori 👥
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 <table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/norkuno"><img src="https://avatars.githubusercontent.com/u/180919518?v=4?s=100" width="100px;" alt="norkuno"/><br /><sub><b>norkuno</b></sub></a><br /><a href="#code-norkuno" title="Code">💻</a> <a href="#doc-norkuno" title="Documentation">📖</a> <a href="#ideas-norkuno" title="Ideas, Planning, & Feedback">🤔</a></td>
-    </tr>
-  </tbody>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/norkuno">
+        <img src="https://github.com/norkuno.png" width="100px;" alt="User 1"/>
+        <br /><sub><b>@norkuno</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/IngaZvejniece">
+        <img src="https://github.com/IngaZvejniece.png" width="100px;" alt="User 2"/>
+        <br /><sub><b>@IngaZvejniece</b></sub>
+      </a>
+    </td>
+        <td align="center">
+      <a href="https://github.com/JO-collab-hash">
+        <img src="https://github.com/JO-collab-hash.png" width="100px;" alt="User 2"/>
+        <br /><sub><b>@JO-collab-hash</b></sub>
+      </a>
+    </td>
+        <td align="center">
+      <a href="https://github.com/MarikaLotko">
+        <img src="https://github.com/MarikaLotko.png" width="100px;" alt="User 2"/>
+        <br /><sub><b>@MarikaLotko</b></sub>
+      </a>
+    </td>
+        <td align="center">
+      <a href="https://github.com/fasttri">
+        <img src="https://github.com/fasttri.png" width="100px;" alt="User 2"/>
+        <br /><sub><b>@fasttri</b></sub>
+      </a>
+    </td>
+  </tr>
 </table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-[![All Contributors](https://img.shields.io/github/all-contributors/norkuno/repozitorijs?color=ee8449&style=flat-square)](#contributors)
