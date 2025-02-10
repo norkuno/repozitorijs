@@ -1,4 +1,23 @@
 {
   "projectName": "repozitorijs",
-  "projectOwner": "norkuno"
+  "projectOwner": "norkuno",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "norkuno",
+      "name": "norkuno",
+      "avatar_url": "https://avatars.githubusercontent.com/u/180919518?v=4",
+      "profile": "https://github.com/norkuno",
+      "contributions": [
+        "code",
+        "doc",
+        "ideas"
+      ]
+    }
+  ]
 }
