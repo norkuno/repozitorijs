@@ -1,1 +1,0 @@
-_Dizaina vadlīnijas_

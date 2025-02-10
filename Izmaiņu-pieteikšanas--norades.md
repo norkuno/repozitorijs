@@ -1,1 +1,0 @@
-_Izmaiņu pieteikšanas  norades_
