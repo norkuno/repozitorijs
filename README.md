@@ -21,31 +21,31 @@
   <tr>
     <td align="center">
       <a href="https://github.com/norkuno">
-        <img src="https://github.com/norkuno.png" width="100px;" alt="User 1"/>
+        <img src="https://github.com/norkuno.png" width="75px;" alt="User 1"/>
         <br /><sub><b>@norkuno</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/IngaZvejniece">
-        <img src="https://github.com/IngaZvejniece.png" width="100px;" alt="User 2"/>
+        <img src="https://github.com/IngaZvejniece.png" width="75px;" alt="User 2"/>
         <br /><sub><b>@IngaZvejniece</b></sub>
       </a>
     </td>
         <td align="center">
       <a href="https://github.com/JO-collab-hash">
-        <img src="https://github.com/JO-collab-hash.png" width="100px;" alt="User 2"/>
+        <img src="https://github.com/JO-collab-hash.png" width="75px;" alt="User 3"/>
         <br /><sub><b>@JO-collab-hash</b></sub>
       </a>
     </td>
         <td align="center">
       <a href="https://github.com/MarikaLotko">
-        <img src="https://github.com/MarikaLotko.png" width="100px;" alt="User 2"/>
+        <img src="https://github.com/MarikaLotko.png" width="75px;" alt="User 4"/>
         <br /><sub><b>@MarikaLotko</b></sub>
       </a>
     </td>
         <td align="center">
       <a href="https://github.com/fasttri">
-        <img src="https://github.com/fasttri.png" width="100px;" alt="User 2"/>
+        <img src="https://github.com/fasttri.png" width="75px;" alt="User 5"/>
         <br /><sub><b>@fasttri</b></sub>
       </a>
     </td>
