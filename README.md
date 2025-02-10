@@ -8,6 +8,18 @@
 + Advanced AI models &#128516; &#128516; &#128516;
 
 ## Pagaidām kaut ko pushojuši
+
+![GitHub contributors](https://img.shields.io/github/contributors/norkuno/repozitorijs?color=blue&style=flat-square)
+
 <a href="https://github.com/norkuno/repozitorijs/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=norkuno/repozitorijs" />
 </a>
+
+## Contributors ✨
+
+Thanks to these amazing people:
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://allcontributors.org/) specification.
