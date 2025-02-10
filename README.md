@@ -15,7 +15,7 @@
   <img src="https://contrib.rocks/image?repo=norkuno/repozitorijs" />
 </a>
 
-## Koloboratori 👥
+## Izstrādātāji 👥
 
 <table>
   <tr>
