@@ -23,6 +23,7 @@ git clone https://github.com/norkuno/repozitorijs.git
   <img src="https://contrib.rocks/image?repo=norkuno/repozitorijs" />
 </a>
 
+
 ## Izstrādātāji 👥
 
 <table>
