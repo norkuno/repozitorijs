@@ -1,0 +1,122 @@
+body{
+color: black;
+width: 80% !important;
+widht:200px;
+max-widht:900px;
+margin: auto;
+background: whitesmoke;
+/*background: beige url("Logotip-ISTQB.png") no-repeat;
+/*background-size: cover;*/
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin-right: 200px
+}
+
+header, nav, main, footer {
+background: whitesmoke;
+padding-left: 40px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 40px;
+margin-top: 10px;
+}
+
+#object-position{
+object-position: top center;
+}
+
+aside {
+    width: 60%;
+    padding-left: .5rem;
+    margin-left: .5rem;
+    float: right;
+    box-shadow: inset 5px 0 5px -5px #29627e;
+    font-style: italic;
+    color: #29627e;
+}
+
+aside2 {
+    width: 40%;
+    padding-left: .5rem;
+    margin-left: .5rem;
+    float: right;
+    box-shadow: inset 5px 0 5px -5px #29627e;
+    font-style: italic;
+    color: #29627e;
+}
+aside3 {
+    width: 30%;
+    padding-left: .5rem;
+    margin-left: .5rem;
+    float: right;
+    box-shadow: inset 5px 0 5px -5px #29627e;
+    font-style: italic;
+    color: #29627e;
+}
+table, th, td,td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+table {
+  border-spacing: 30px;
+}
+table th{
+   background-color: rgb(122, 183, 245);
+   font-size: 30px;
+}
+
+tr.rowX td {
+  background-color: #8bee77;
+     font-size: 25px;
+}
+tr.rowY td {
+  background-color: rgb(122, 183, 245);
+  font-size: 25px;
+}
+
+li.li1 { 
+  padding-left: 32px; 
+  margin: 0;
+}
+li.li2 { 
+  padding-left: 48px; 
+}
+ul {
+  list-style: none; /* Remove HTML bullets */
+  padding: 0;
+  margin: 0;
+}
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: rgb(216, 19, 19);
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -60px;
+  
+  /* Fade in tooltip - takes 1 second to go from 0% to 100% opac: */
+  opacity: 0;
+  transition: opacity 1s;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+  }
+
+  #outputName, #outputSurname, #outputCity{
+  color: red;
+}
+
