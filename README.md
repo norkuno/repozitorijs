@@ -60,3 +60,6 @@ git clone https://github.com/norkuno/repozitorijs.git
     </td>
   </tr>
 </table>
+
+## Karte
+![karte](Desktop/karte.jpg)
