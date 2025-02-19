@@ -62,4 +62,7 @@ git clone https://github.com/norkuno/repozitorijs.git
 </table>
 
 ## Karte
-![karte](Desktop/karte.jpg)
+docs/
+    images/
+        karte.jpg
+    README.md
