@@ -9,7 +9,7 @@
         function updateCountdown() {
             document.getElementById("countdown").textContent = countdown;
             if (countdown <= 0) {
-                window.location.href = "/"; // Redirect to homepage
+                window.location.href = "index.html"; // Redirect to homepage
             } else {
                 countdown--;
                 setTimeout(updateCountdown, 1000); // Update countdown every second
