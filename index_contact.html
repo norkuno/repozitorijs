@@ -8,6 +8,7 @@
 	<meta name="author" content="Inga Zvejniece">
 	<meta name="theme-color" content="#52b3b3">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAeEJfIAKx-zaymTFT7AUg_OAzvyA8crOE&callback=initMap" async defer></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
@@ -72,6 +73,34 @@
   <a href="tel:+37167474025">(+371) 67474025 (skolotāju istaba)</a><br>
   <a href="tel:+37167474113">(+371) 67474113 (dežurante)</a>
 </address>
+
+
+<div id="map" style="height: 500px; width: 100%;"></div>
+
+
+
+
+<script>
+  function initMap() {
+    // Define the map's center location
+    var location = { lat: 37.7749, lng: -122.4194 }; // San Francisco, CA
+
+    // Create a new map instance
+    var map = new google.maps.Map(document.getElementById("map"), {
+      zoom: 12,
+      center: location
+    });
+
+    // Add a marker
+    var marker = new google.maps.Marker({
+      position: location,
+      map: map
+    });
+  }
+</script>
+
+
+
 
 
 		<div class="container">
