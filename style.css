@@ -1,7 +1,7 @@
 body{
 color: black;
-width: 80% !important;
-widht:200px;
+width: 60% !important;
+widht:250px;
 max-widht:900px;
 margin: auto;
 background: whitesmoke;
@@ -19,73 +19,68 @@ padding-top: 10px;
 padding-bottom: 10px;
 padding-right: 40px;
 margin-top: 10px;
+
 }
+
+        .important {
+            color: red;
+            font-weight: bold;
+        }
+        .sidebar {
+            width: 250px;
+            background-color: black;
+            color: white;
+            height: 25vh;
+            padding: 20px;
+            box-sizing: border-box;
+            position: fixed;
+            top: 100;
+            left: 0;
+            overflow-y: auto;
+        }
+
+        .sidebar a {
+            color: white;
+            text-decoration: none;
+            display: block;
+            padding: 10px 0;
+        }
+        .sidebar a:hover {
+            background-color: black;
+        }
+				        .sidebar2{
+            width: 250px;
+            background-color: black;
+            color: white;
+            height: 40vh;
+            padding: 20px;
+            box-sizing: border-box;
+            position: fixed;
+            top: 100;
+            left: 0;
+            overflow-y: auto;
+        }
+		        .sidebar2 a {
+            color: white;
+            text-decoration: none;
+            display: block;
+            padding: 10px 0;
+        }
+        .sidebar2 a:hover {
+            background-color: black;
+        }
+        .content {
+            margin-left: 180px; /* Pielāgojiet pēc nepieciešamības */
+			margin-top: 30px;
+            padding: 20px;
+            box-sizing: border-box;
+            width: calc(100% - 180px); /* Pielāgojiet pēc nepieciešamības */
+        }
 
 #object-position{
 object-position: top center;
 }
-
-aside {
-    width: 60%;
-    padding-left: .5rem;
-    margin-left: .5rem;
-    float: right;
-    box-shadow: inset 5px 0 5px -5px #29627e;
-    font-style: italic;
-    color: #29627e;
-}
-
-aside2 {
-    width: 40%;
-    padding-left: .5rem;
-    margin-left: .5rem;
-    float: right;
-    box-shadow: inset 5px 0 5px -5px #29627e;
-    font-style: italic;
-    color: #29627e;
-}
-aside3 {
-    width: 30%;
-    padding-left: .5rem;
-    margin-left: .5rem;
-    float: right;
-    box-shadow: inset 5px 0 5px -5px #29627e;
-    font-style: italic;
-    color: #29627e;
-}
-table, th, td,td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-table {
-  border-spacing: 30px;
-}
-table th{
-   background-color: rgb(122, 183, 245);
-   font-size: 30px;
-}
-
-tr.rowX td {
-  background-color: #8bee77;
-     font-size: 25px;
-}
-tr.rowY td {
-  background-color: rgb(122, 183, 245);
-  font-size: 25px;
-}
-
-li.li1 { 
-  padding-left: 32px; 
-  margin: 0;
-}
-li.li2 { 
-  padding-left: 48px; 
-}
-ul {
-  list-style: none; /* Remove HTML bullets */
-  padding: 0;
-  margin: 0;
-}
+	
 .tooltip {
   position: relative;
   display: inline-block;
