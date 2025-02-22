@@ -4,7 +4,7 @@
 
 ## Lapu sasraksts
 1. [[404.html]](https://github.com/norkuno/repozitorijs/blob/main/404.html) 
-2. [[index.html]](9https://github.com/norkuno/repozitorijs/blob/main/index.html)
+2. [[index.html]](https://github.com/norkuno/repozitorijs/blob/main/index.html)
 3. [[Kontakti]](https://github.com/norkuno/repozitorijs/blob/main/index_contact.html) Kontaktu sarkasts ar e-pastiem un tālruņiem
 4. [[Uzņemšana]](https://github.com/norkuno/repozitorijs/blob/main/index_uznemsana.html) Uzņemšanas noteikumi
 5. [[Titulbilde]](https://github.com/norkuno/repozitorijs/blob/main/r64vsk.jpeg) 64. vidusskolas attēls
