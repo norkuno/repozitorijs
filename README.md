@@ -3,11 +3,11 @@
 Šis ir repozitorijs, kas satur kodu un failus saistībā ar mācību projekta mājas lapu. Šī mājas lapa ir paredzēta, lai sniegtu informāciju par 64. vidusskolu un tās sniegtajiem pakalpojumiem, kā arī piedāvātu iespēju sazināties.
 
 ## Lapu sasraksts
-[404.html] (https://github.com/norkuno/repozitorijs/blob/main/404.html) 
-[index.html] (9https://github.com/norkuno/repozitorijs/blob/main/index.html)
-[Kontakti] (https://github.com/norkuno/repozitorijs/blob/main/index_contact.html) Kontaktu saraksts: peasts un tālrunis
-[Uzņemšana] (https://github.com/norkuno/repozitorijs/blob/main/index_uznemsana.html) Aprakstīti uzņemšanas noteikumi
-[Titulbilde] (https://github.com/norkuno/repozitorijs/blob/main/r64vsk.jpeg) 64. vidusskolas attēls
+[![404.html]](https://github.com/norkuno/repozitorijs/blob/main/404.html) 
+[![index.html]](9https://github.com/norkuno/repozitorijs/blob/main/index.html)
+[![Kontakti]](https://github.com/norkuno/repozitorijs/blob/main/index_contact.html) Kontaktu saraksts: peasts un tālrunis
+[![Uzņemšana]](https://github.com/norkuno/repozitorijs/blob/main/index_uznemsana.html) Aprakstīti uzņemšanas noteikumi
+[![Titulbilde]](https://github.com/norkuno/repozitorijs/blob/main/r64vsk.jpeg) 64. vidusskolas attēls
 
 ## Izmantotās tehnoloģijas
 + HTML
