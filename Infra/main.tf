@@ -13,6 +13,10 @@ provider "aws" {
 }
 
 
+resource "aws_s3_bucket" "bucket_952122846739_group_1" {
+  bucket = "952122846739-group-1"
+}
+
 # IGW is already defined in the VPC
 # Public Route Table for Public Subnet
 resource "aws_route_table" "group-1_public_route_table" {
@@ -85,7 +89,7 @@ resource "aws_instance" "group-1_ec2" {
   ami             = "ami-002acc74c401fa86b" # Bezmaksas RedHat AMI
   instance_type   = "t2.micro"
   key_name        = "group-1-key" 
-  security_groups = ["sg-04ba60c11d3f61931"]
+  vpc_security_group_ids = ["sg-04ba60c11d3f61931"]
   subnet_id       = "subnet-0ac6e055bbdf5ecbc"
   associate_public_ip_address = true
 
@@ -98,4 +102,17 @@ resource "aws_instance" "group-1_ec2" {
 resource "aws_key_pair" "group-1_ssh_key" {
   key_name   = "group-1-key"
   public_key = file("~/.ssh/group-1-key.pub") 
+}
+
+# Elastic IP resurss
+resource "aws_eip" "group-1-elastic-IP" {
+    tags = {
+    Name = "group-1-elastic-IP"
+  }
+}
+
+# Elastic IP asociācija ar EC2 instanci
+resource "aws_eip_association" "group-1_eip_assoc" {
+  instance_id   = "i-0c790c10161653b69"
+  allocation_id = "eipalloc-0b1033e0eb47b243d"
 }
