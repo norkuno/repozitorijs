@@ -21,7 +21,7 @@
 </head>
 <body>
 
-<<body class="py-4">
+<body class="py-4">
 
 <nav class="navbar navbar-expand-md bg-dark navbar-dark fixed-top">
   <a class="navbar-brand" href="index.html">Rīgas 64.vidusskola</a>
@@ -59,12 +59,29 @@
 			<path d="M8.354 1.146a.5.5 0 0 0-.708 0l-6 6A.5.5 0 0 0 1.5 7.5v7a.5.5 0 0 0 .5.5h4.5a.5.5 0 0 0 .5-.5v-4h2v4a.5.5 0 0 0 .5.5H14a.5.5 0 0 0 .5-.5v-7a.5.5 0 0 0-.146-.354L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.354 1.146zM2.5 14V7.707l5.5-5.5 5.5 5.5V14H10v-4a.5.5 0 0 0-.5-.5h-3a.5.5 0 0 0-.5.5v4H2.5z"></path>
 		</symbol>
 
-<div>
-  <p><strong><h1>404 Not Found</h1><br>
-</div>
 
 <div>
-  <p><h4>Atgriezties uz <a href="index.html">sākuma</a> lapu.</h4></p>
+  <p><strong><h1>404 - Lapa nav atrasta</h1><br>
+</div>
+
+
+<script type="text/javascript">
+	let countdown = 10; // Set the countdown time in seconds
+	function updateCountdown() {
+		document.getElementById("countdown").textContent = countdown;
+		if (countdown <= 0) {
+			window.location.href = "index.html"; // Redirect to homepage
+		} else {
+			countdown--;
+			setTimeout(updateCountdown, 1000); // Update countdown every second
+		}
+	}
+	window.onload = updateCountdown; // Start the countdown when the page loads
+</script>
+
+<div>
+	<h4>Nevarējām atrast šādu lapu</h4>
+	<h4>Jūs tiksiet pārvirzīts uz galveno lapu pēc <span id="countdown">5</span> sekundēm.</h4>
   </div>
 </body>
 
