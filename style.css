@@ -1,0 +1,117 @@
+body{
+color: black;
+width: 60% !important;
+widht:250px;
+max-widht:900px;
+margin: auto;
+background: whitesmoke;
+/*background: beige url("Logotip-ISTQB.png") no-repeat;
+/*background-size: cover;*/
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin-right: 200px
+}
+
+header, nav, main, footer {
+background: whitesmoke;
+padding-left: 40px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 40px;
+margin-top: 10px;
+
+}
+
+        .important {
+            color: red;
+            font-weight: bold;
+        }
+        .sidebar {
+            width: 250px;
+            background-color: black;
+            color: white;
+            height: 25vh;
+            padding: 20px;
+            box-sizing: border-box;
+            position: fixed;
+            top: 100;
+            left: 0;
+            overflow-y: auto;
+        }
+
+        .sidebar a {
+            color: white;
+            text-decoration: none;
+            display: block;
+            padding: 10px 0;
+        }
+        .sidebar a:hover {
+            background-color: black;
+        }
+				        .sidebar2{
+            width: 250px;
+            background-color: black;
+            color: white;
+            height: 40vh;
+            padding: 20px;
+            box-sizing: border-box;
+            position: fixed;
+            top: 100;
+            left: 0;
+            overflow-y: auto;
+        }
+		        .sidebar2 a {
+            color: white;
+            text-decoration: none;
+            display: block;
+            padding: 10px 0;
+        }
+        .sidebar2 a:hover {
+            background-color: black;
+        }
+        .content {
+            margin-left: 180px; /* Pielāgojiet pēc nepieciešamības */
+			margin-top: 30px;
+            padding: 20px;
+            box-sizing: border-box;
+            width: calc(100% - 180px); /* Pielāgojiet pēc nepieciešamības */
+        }
+
+#object-position{
+object-position: top center;
+}
+	
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: rgb(216, 19, 19);
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -60px;
+  
+  /* Fade in tooltip - takes 1 second to go from 0% to 100% opac: */
+  opacity: 0;
+  transition: opacity 1s;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+  }
+
+  #outputName, #outputSurname, #outputCity{
+  color: red;
+}
+
