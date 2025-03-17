@@ -13,6 +13,10 @@ provider "aws" {
 }
 
 
+resource "aws_s3_bucket" "bucket_952122846739_group_1" {
+  bucket = "952122846739-group-1"
+}
+
 # IGW is already defined in the VPC
 # Public Route Table for Public Subnet
 resource "aws_route_table" "group-1_public_route_table" {
@@ -111,4 +115,9 @@ resource "aws_eip" "group-1-elastic-IP" {
 resource "aws_eip_association" "group-1_eip_assoc" {
   instance_id   = "i-0c790c10161653b69"
   allocation_id = "eipalloc-0b1033e0eb47b243d"
+}
+
+resource "aws_route53_zone" "group_1_dns_zone" {
+name = "64vsk.id.lv"
+comment = "group-1 64.vsk"
 }
