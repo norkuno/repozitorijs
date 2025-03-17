@@ -117,7 +117,6 @@ resource "aws_eip_association" "group-1_eip_assoc" {
   allocation_id = "eipalloc-0b1033e0eb47b243d"
 }
 
-
 resource "aws_route53_zone" "group_1_dns_zone" {
 name = "64vsk.id.lv"
 comment = "group-1 64.vsk"
